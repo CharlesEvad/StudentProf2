@@ -1,0 +1,12 @@
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.csproj.AssemblyReference.cache
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.EditPage.resources
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.LoginPage.resources
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.Properties.Resources.resources
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.StudentPage.resources
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.csproj.GenerateResource.cache
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.csproj.CoreCompileInputs.cache
+D:\c#\StudentProfileApp\StudentProfileApp\bin\Debug\StudentProfileApp.exe.config
+D:\c#\StudentProfileApp\StudentProfileApp\bin\Debug\StudentProfileApp.exe
+D:\c#\StudentProfileApp\StudentProfileApp\bin\Debug\StudentProfileApp.pdb
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.exe
+D:\c#\StudentProfileApp\StudentProfileApp\obj\Debug\StudentProfileApp.pdb
